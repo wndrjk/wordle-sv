@@ -2500,3 +2500,5 @@ const words = {
 		"övärd",
 	]
 };
+
+export default words;
