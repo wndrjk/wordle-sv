@@ -5,7 +5,7 @@
 </div>
 
 ---
-A recreation of the popular game [Wordle](https://www.nytimes.com/games/wordle/) by Josh Wardle (now purchased by the New York Times), with additional modes and features. 
+A recreation of the popular game [Wordle](https://www.nytimes.com/games/wordle/) by Josh Wardle (now purchased by the New York Times), with additional modes and features.  
 Hosted on GitHub pages [here](https://mikhad.github.io/wordle/). [This is a fork]
 
 # Additional Features
